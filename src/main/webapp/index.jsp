@@ -10,6 +10,7 @@
 	<h1>Together App</h1>
 
 	<a href="<%= request.getContextPath() %>/dho9">judgerTH</a>
+	<a href="<%= request.getContextPath() %>/dho29">judgerTH1</a>
 
 	
 	
